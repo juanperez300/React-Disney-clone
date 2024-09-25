@@ -12,6 +12,21 @@ const Recomends = () => {
             {/* <img src="" alt="" /> */}
           </Link>
         </Wrap>
+        <Wrap>
+          <Link to="/">
+            {/* <img src="" alt="" /> */}
+          </Link>
+        </Wrap>
+        <Wrap>
+          <Link to="/">
+            {/* <img src="" alt="" /> */}
+          </Link>
+        </Wrap>
+        <Wrap>
+          <Link to="/">
+            {/* <img src="" alt="" /> */}
+          </Link>
+        </Wrap>
       </Content>
     </Container>
   );
