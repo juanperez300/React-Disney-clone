@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { selectRecommend } from "../features/movie/movieSlice";
 
-const Recomends = () => {
+const Recommends = () => {
   const movies = useSelector(selectRecommend);
 
   return (
@@ -70,4 +70,4 @@ const Wrap = styled.div`
   }
 `;
 
-export default Recomends;
+export default Recommends;
